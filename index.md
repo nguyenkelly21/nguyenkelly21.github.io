@@ -4,7 +4,7 @@ This is my home page! My name is Kelly Nguyen and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/nguyenkelly21.
+My GitHub page is http://github.com/nguyenkelly21.github.io.
 
 ### CPSC 120
  
